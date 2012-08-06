@@ -1,0 +1,4 @@
+Read Me First
+=============
+
+Originally developed by Simon Roberts (Wishcraft)

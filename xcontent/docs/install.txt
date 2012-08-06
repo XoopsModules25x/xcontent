@@ -1,0 +1,4 @@
+Read Me First
+=============
+
+Install the module as per the system module and then adjust preferences to your liking.
