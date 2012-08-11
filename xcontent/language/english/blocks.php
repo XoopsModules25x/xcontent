@@ -15,8 +15,8 @@ License: See /docs - GPL 2.0
 */
 
 include_once('modinfo.php');
-define('_XCONTENT_ADDPAGE', 'Add Page');
+define('_XCONTENT_ADDPAGE','Add Page');
 //BlOCKS
-//define('_XCONTENT_PAGE', 'Section on page');
-//define('_XCONTENT_NONE', 'None');
+//define('_XCONTENT_PAGE','Section on page');
+//define('_XCONTENT_NONE','None');
 ?>
