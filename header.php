@@ -22,7 +22,7 @@ License: See /docs - GPL 2.0
 	require_once($GLOBALS['xoops']->path(_XCONTENT_PATH_PHP_FORMS));
 	require_once($GLOBALS['xoops']->path(_XCONTENT_PATH_PHP_TEMPLATE));
 
-	$myts =& MyTextSanitizer::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 
 	$gperm_handler =& xoops_gethandler('groupperm');
 	$groups = is_object($GLOBALS['xoopsUser']) ? $GLOBALS['xoopsUser']->getGroups() : array(XOOPS_GROUP_ANONYMOUS);

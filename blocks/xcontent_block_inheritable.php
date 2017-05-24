@@ -34,7 +34,7 @@ License: See /docs - GPL 2.0
 		else
 			return false;
 		
-		$myts =& MyTextSanitizer::getInstance();
+		$myts = MyTextSanitizer::getInstance();
 		return array('html' =>  $myts->displayTarea(clear_unicodeslashes($block['text']->getVar('text')), true, true, true, true, false));
 	}
 	
