@@ -1,7 +1,7 @@
 # XOOPS CMS Module   ![XOOPS CMS](https://avatars2.githubusercontent.com/u/12771439?v=3&s=200)
 
 **xContent** is a content module for XOOPS 2.5 and later, it uses the latest techniques to hone easy to present content on a standard page.
-It has an linked blocks and all the accessories for Tag and other features. It also supports X-Language and multilingual pages with the same ID.
+It has linked blocks and all the accessories for Tag and other features. It also supports X-Language and multilingual pages with the same ID.
 
 **XOOPS Module Archive:** Modules in this archive are older modules for XOOPS CMS, and therefore some of them might not work with the latest XOOPS and PHP versions. 
 

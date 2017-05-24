@@ -31,7 +31,7 @@ License: See /docs - GPL 2.0
 	require_once($GLOBALS['xoops']->path(_XCONTENT_PATH_PHP_FORMS));
 	require_once($GLOBALS['xoops']->path(_XCONTENT_PATH_PHP_TEMPLATE));
 	
-	$myts =& MyTextSanitizer::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	
 	$op = (isset($_REQUEST['op']))?strtolower($_REQUEST['op']):'dashboard';
 	$fct = (isset($_REQUEST['fct']))?strtolower($_REQUEST['fct']):'';	
